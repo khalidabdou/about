@@ -1,4 +1,5 @@
 - 👋 Hi, I'm Curtis. 
-- Self-taught developer and eager to learn more!
+- Self-taught developer with experience in HTML, CSS, and Javascript.
+- Experience with Bootstrap, Express, Node, MongoDB, and React.
 - Currently managing a team of 100+ employees at a multinational technology company that specializes in consumer electronics, software and online services.
 - Looking to change directions and become a developer 💻
