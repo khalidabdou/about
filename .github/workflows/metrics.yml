@@ -10,6 +10,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Cwarcup@latest
+      - uses: Cwarcup/Metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
