@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            470 Commits
+                            471 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,13 +225,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="183.92242979481145" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="183.92242979481145" y="0" width="110.84869153762419" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="294.77112133243565" y="0" width="93.94678059738119" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="388.71790192981683" y="0" width="45.187538932969225" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="433.90544086278607" y="0" width="16.11318404047141" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="450.01862490325743" y="0" width="8.952412113737754" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.9710370169952" y="0" width="1.0289629830047757" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="183.18038223121033" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="183.18038223121033" y="0" width="111.83001199575439" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="295.0103942269647" y="0" width="93.84002311223881" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="388.85041733920355" y="0" width="45.103534037168" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="433.95395137637155" y="0" width="16.083229181713698" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="450.03718055808525" y="0" width="8.93576932980788" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.97294988789315" y="0" width="1.0270501121069193" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1421,7 +1421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EbookFoundation/free-programming-books</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
