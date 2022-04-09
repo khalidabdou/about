@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            741 Commits
+                            742 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="265.0954620442622" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="265.0954620442622" y="0" width="92.80486192727754" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="357.90032397153976" y="0" width="56.405310308234746" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="414.3056342797745" y="0" width="28.25346924805644" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="442.5591035278309" y="0" width="9.274821670780447" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="451.8339251986114" y="0" width="5.153048936181771" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="456.9869741347932" y="0" width="2.420750114539966" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="459.4077242493331" y="0" width="0.5922757506668671" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="265.2301973792552" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="265.2301973792552" y="0" width="92.74070696048253" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="357.9709043397377" y="0" width="56.3663179458225" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="414.3372222855602" y="0" width="28.233937939633474" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="442.57116022519364" y="0" width="9.268410089921842" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="451.83957031511545" y="0" width="5.149486690879873" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="456.9890570059954" y="0" width="2.419076676963613" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="459.408133682959" y="0" width="0.5918663170409941" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1327,7 +1327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>storybookjs/storybook</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📓 The UI component explorer. Develop, document, &amp; test React, Vue, Angular, Web Components, Ember, Svelte &amp; more!</div>
