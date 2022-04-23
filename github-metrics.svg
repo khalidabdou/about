@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            804 Commits
+                            807 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.1064962633273" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="294.1064962633273" y="0" width="75.49764792724955" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="369.60414419057685" y="0" width="47.19406674907293" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="416.7982109396498" y="0" width="29.179591783251144" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="445.97780272290095" y="0" width="7.456805869189521" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="453.43460859209046" y="0" width="4.142967586384621" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="457.57757617847506" y="0" width="1.946243744913306" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="459.5238199233884" y="0" width="0.47618007661161754" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="296.717949746785" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="296.717949746785" y="0" width="74.30918309148699" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="371.027132838272" y="0" width="46.4511497135389" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="417.4782825518109" y="0" width="28.720254046137576" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="446.1985365979484" y="0" width="7.339422721423392" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="453.53795931937185" y="0" width="4.077750040841127" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="457.615709360213" y="0" width="1.915606469234451" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="459.5313158294474" y="0" width="0.46868417055254463" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1327,7 +1327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>30-seconds/30-seconds-of-code</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Short JavaScript code snippets for all your development needs</div>
@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kamranahmedse/developer-roadmap</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Roadmap to becoming a developer in 2022</div>
@@ -1433,7 +1433,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timlrx/tailwind-nextjs-starter-blog</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.</div>
@@ -1454,7 +1454,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        2.48k
+                                        2.49k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1486,7 +1486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>storybookjs/storybook</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📓 The UI component explorer. Develop, document, &amp; test React, Vue, Angular, Web Components, Ember, Svelte &amp; more!</div>
@@ -1520,7 +1520,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        8.91k
+                                        8.92k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
