@@ -24,7 +24,7 @@ jobs:
           # Options
           user: cwarcup
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity
           config_timezone: America/Vancouver
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -39,9 +39,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_stars: yes
-          plugin_stars_limit: 4
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
           
