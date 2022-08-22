@@ -36,7 +36,7 @@
 
 ## 🔎 Find me on LinkedIn
 
-<a href="[https://www.linkedin.com/in/curtiswarcup](https://www.linkedin.com/in/curtiswarcup/)"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/curtiswarcup"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
 <!--
