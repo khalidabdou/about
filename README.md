@@ -1,15 +1,37 @@
-## <p align="center"> <b>Hi there! 👋 </b> </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-<p align="center">
-<b>I am Curtis Warcup, Full Stack Web Developer from Vancouver, Canada🇨🇦.</b>
-</p>
 
-## 💁‍♂️ About Me
+<div id="badges">
+<a href="https://www.linkedin.com/in/curtiswarcup/">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.cwarcup.com/">
+	<img src="https://img.shields.io/badge/cwarcup.com-red?style=for-the-badge&logo=swirl&logoColor=white" alt="cwarcup Badge"/>
+</a>
 
-- 🔭 I’m currently in my last month of bootcamp at [Lighthouse Labs](https://github.com/lighthouse-labs).
-- 🌱 I’m currently learning Ruby on Rails.
+<div>
+	<img src="https://komarev.com/ghpvc/?username=cwarcup&style=flat-square&color=blue" alt=""/>
+</div>
 
-## 👨‍💻 Tech Stack
+</div>
+
+
+</div>
+
+
+
+# 👨🏼‍💻 About Me
+
+  I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨🇦
+
+- 🔭 Recent graduate from [Lighthouse Labs](https://github.com/lighthouse-labs).
+- 🌱 I’m currently in search of a new project to work on! 
+- ⚡️ In my free time I enjoy making custom mechanical keyboards and walking my dog.
+- 🙋🏼‍♂️ Ask me about which mechanical keyboard to buy next!
+
+# 🛠 Languages and Tools
+
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,24 +56,14 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🔎 Find me on LinkedIn
 
-<a href="https://www.linkedin.com/in/curtiswarcup"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+# 📈 My GitHub Stats
+<div align="center">
+
+![Curtis's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwarcup&show_icons=true&theme=dracula)
+
+![Curtis's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cwarcup&theme=dracula)
 
 
-<!--
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-More Badges here when you learn some new tech
-https://github.com/Ileriayo/markdown-badges
--->
