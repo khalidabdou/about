@@ -20,8 +20,8 @@
 </div>
 
 
-
-# 👨🏼‍💻 About Me
+---
+## 👨🏼‍💻 About Me
 
   I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨🇦
 
@@ -30,7 +30,8 @@
 - ⚡️ In my free time I enjoy making custom mechanical keyboards and walking my dog.
 - 🙋🏼‍♂️ Ask me about which mechanical keyboard to buy next!
 
-# 🛠 Languages and Tools
+---
+## 🛠 Languages and Tools
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -56,8 +57,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
-# 📈 My GitHub Stats
+## 📈 GitHub Stats
 <div align="center">
 
 ![Curtis's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwarcup&show_icons=true&theme=dracula)
