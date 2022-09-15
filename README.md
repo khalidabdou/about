@@ -26,8 +26,8 @@
 
 - 🔭 Recent graduate from [Lighthouse Labs](https://github.com/lighthouse-labs).
 - 🌱 I’m currently in search of a new project to work on! 
-- ⚡️ In my free time I enjoy making custom mechanical keyboards and walking my dog.
-- 🙋🏼‍♂️ Ask me about which mechanical keyboard to buy next!
+- ⚡️ In my free time I enjoy making custom mechanical keyboards, walking my dog and cycling
+- 🙋🏼‍♂️ Ask me about keyboard mods and race me on [Zwift](https://www.zwift.com/ca/athlete/3f61bd24-a0a1-4e6e-87a5-7998fe1b2f44)  🚲💨
 
 
 ## 🛠 Languages and Tools
