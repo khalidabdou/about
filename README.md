@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
+<img src="./profile.png" width="200">
 
 <div id="badges">
 <a href="https://www.linkedin.com/in/curtiswarcup/">
@@ -24,8 +23,8 @@
 
   I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨🇦
 
-- 🔭 Recent graduate from [Lighthouse Labs](https://github.com/lighthouse-labs).
-- 🌱 I’m currently in search of a new project to work on! 
+- 🎓 Recent graduate from [Lighthouse Labs](https://github.com/lighthouse-labs)
+- 🌱 I’m currently brushing up on TypeScript
 - ⚡️ In my free time I enjoy making custom mechanical keyboards, walking my dog and cycling
 - 🙋🏼‍♂️ Ask me about keyboard mods and race me on [Zwift](https://www.zwift.com/ca/athlete/3f61bd24-a0a1-4e6e-87a5-7998fe1b2f44)  🚲💨
 - ⭐️ Link to [resume](https://resume.creddle.io/resume/37seff0aqxp)
