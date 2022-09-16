@@ -1,5 +1,7 @@
 <div id="header" align="center">
+<a href="https://www.cwarcup.com/">
 <img src="./profile.png" width="200">
+</a>
 
 <div id="badges">
 <a href="https://www.linkedin.com/in/curtiswarcup/">
