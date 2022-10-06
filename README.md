@@ -76,36 +76,7 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 2,710 Contributions in the Year 2022
- > 
-> 📦 489.3 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 68 Public Repositories 
- > 
-> 🔑 22 Private Repositories  
- > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               51 repos            ██████████████████░░░░░░░   72.86% 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Ruby                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
-
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Million%20lines%20of%20code-blue)
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Cwarcup/Cwarcup/main/charts/bar_graph.png) 
-
-
- Last Updated on 06/10/2022 15:49:16 UTC
 <!--END_SECTION:waka-->
