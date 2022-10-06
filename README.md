@@ -10,25 +10,22 @@
 <a href="https://www.cwarcup.com/">
 	<img src="https://img.shields.io/badge/cwarcup.com-red?style=for-the-badge&logo=swirl&logoColor=white" alt="cwarcup Badge"/>
 </a>
+<br>
+</br>
 
-<div>
-	<img src="https://komarev.com/ghpvc/?username=cwarcup&style=flat-square&color=blue" alt=""/>
-</div>
-
-</div>
 
 
 </div>
 
 
-## 👨🏼‍💻 About Me
+</div>
 
   I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨🇦
 
 - 🌱 I’m currently brushing up on TypeScript
 - ⚡️ In my free time I enjoy making custom mechanical keyboards, walking my dog and cycling
 - 🙋🏼‍♂️ Ask me about keyboard mods, cycling, or anything else!
-
+- 👨🏼‍💻 Currently working on a [parking app to help people find parking in Vancouver ](https://github.com/Cwarcup/free-parking-mapper)
 
 ## 🛠 Languages and Tools
 
@@ -61,7 +58,7 @@
 ## 📈 GitHub Stats
 <div align="center">
 
-![Curtis's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwarcup&show_icons=true&theme=dracula)
+![Curtis's GitHub stats](https://github-readme-stats-sooty-eight-60.vercel.app/api?username=cwarcup&show_icons=true&theme=dracula)
 
 ![Curtis's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cwarcup&theme=dracula)
 </div>
