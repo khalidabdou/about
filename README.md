@@ -63,3 +63,5 @@
 ![Curtis's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cwarcup&theme=dracula)
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
