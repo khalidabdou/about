@@ -10,15 +10,16 @@
 	<a href="https://www.cwarcup.com/">
 		<img src="https://img.shields.io/badge/cwarcup.com-red?style=for-the-badge&logo=swirl&logoColor=white" alt="cwarcup Badge"/>
 	</a>
+</div>
 
 <a>
 	<img src="https://komarev.com/ghpvc/?username=cwarcup&style=flat-square&color=blue" alt="profile views"/>
 </a>
 
+
 <br>
 </br>
 
-</div>
 
 
 </div>
