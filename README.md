@@ -75,9 +75,32 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7%20Million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    262 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
+🌆 Daytime    1067 commits   ██████████████░░░░░░░░░░░   59.31% 
+🌃 Evening    467 commits    ██████░░░░░░░░░░░░░░░░░░░   25.96% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   41 mins             ███████░░░░░░░░░░░░░░░░░░   31.09% 
+JavaScript               35 mins             ██████░░░░░░░░░░░░░░░░░░░   26.39% 
+Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
+CSS                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.79%
+
+```
 
 
 <!--END_SECTION:waka-->
