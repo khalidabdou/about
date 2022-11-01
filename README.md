@@ -42,6 +42,7 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
 	<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
 	<img alt="markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown" />
 	<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+	<img alt='python' src="https://img.shields.io/badge/-python-275379?style=flat-square&logo=python&logoColor=FFE567" >
 </p>
 
 <p align="center">
@@ -57,7 +58,8 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
 	<img  alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-	<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+	<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+	<img alt='redux' src="https://img.shields.io/badge/-redux-1B1B1D?style=flat-square&logo=redux&logoColor=593E88" > 
 
 <p align="center">
 	<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
@@ -72,6 +74,11 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
 	<img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
 	<img alt="Mocha" src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" /> 
 	<img alt="Chai" src="https://img.shields.io/badge/-Chai-A30701?style=flat-square&logo=chai&logoColor=white" />
+</p>
+
+<p align="center">
+	<img alt="supabase" src="https://img.shields.io/badge/-supabase-17202C?style=flat-square&logo=supabase&logoColor=3ECF8F" />	
+	<img alt="firebase" src="https://img.shields.io/badge/-firebase-17202C?style=flat-square&logo=firebase" />	
 </p>
 
 ---
