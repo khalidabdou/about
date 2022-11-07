@@ -25,10 +25,9 @@
 </div>
 I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨🇦
 
-- 🌱 I’m currently brushing up on TypeScript
-- ⚡️ In my free time I enjoy making custom mechanical keyboards, walking my dog and cycling
+- ⚡️ In my free time I enjoy making custom mechanical keyboards, walking my dog and cycling.
 - 🙋🏼‍♂️ Ask me about keyboard mods, cycling, or anything else!
-- 👨🏼‍💻 Currently working on a [parking app to help people find parking in Vancouver ](https://github.com/Cwarcup/free-parking-mapper)
+- 👨🏼‍💻 Currently working on an [ecommerce site](https://github.com/Cwarcup/ecom-firebase) using React, TypeScript, Firebase, and Stripe.
 
 <h3>
 	🛠 Things I code with
@@ -94,6 +93,10 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
 ![Curtis's GitHub stats](https://github-readme-stats-sooty-eight-60.vercel.app/api?username=cwarcup&show_icons=true&theme=dracula)
 
 ![Curtis's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cwarcup&theme=dracula)
+
+![Curtis's Top Languages](https://github-readme-stats-sooty-eight-60.vercel.app/api/top-langs/?username=cwarcup&langs_count=4&theme=dracula)
+
+
 </div>
 
 </details>
