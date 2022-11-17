@@ -27,7 +27,7 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
 
 - ⚡️ In my free time I enjoy making custom mechanical keyboards, walking my dog and cycling.
 - 🙋🏼‍♂️ Ask me about keyboard mods, cycling, or anything else!
-- 👨🏼‍💻 Currently working on an [ecommerce site](https://github.com/Cwarcup/ecom-firebase) using React, TypeScript, Firebase, and Stripe.
+- 👨🏼‍💻 Currently working on a [porfolio template site](https://github.com/Cwarcup/next13-tailwind-portfolio-starter).
 
 <h3>
 	🛠 Things I code with
@@ -35,13 +35,14 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
 
 <p align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 	<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 	<img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
 	<img alt="markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown" />
 	<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 	<img alt='python' src="https://img.shields.io/badge/-python-275379?style=flat-square&logo=python&logoColor=FFE567" >
+	<img alt='go' src="https://img.shields.io/badge/-Go-007D9C?style=flat-square&logo=go&logoColor=fffff" >
 </p>
 
 <p align="center">
