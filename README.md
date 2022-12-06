@@ -52,8 +52,7 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
   <img title="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> 
   <img title="ruby" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />       
   <img title="go" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />       
-  <img title="express" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" />       
-  <img title="express" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-dark-mode-only" />       
+  <img title="express" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" />            
   <img title="eslint" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg#gh-dark-mode-only" />
   <img title="jets" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" />
   <img title="jquery" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
@@ -62,25 +61,25 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
 <details>
   <summary>⚡ Github Stats</summary>
   <br>
-  <img src="https://github-readme-stats-sooty-eight-60.vercel.app/api?username=cwarcup&show_icons=true&theme=dracula" alt="Curtis Warcups Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cwarcup&theme=dracula&show_icons=true" alt="Curtis Warcups Github Stats" />
 </details>
 
 <details>
   <summary>📈 Github Activity Graph</summary>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Cwarcup&theme=react-dark" alt="Oops, something went wrong with Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cwarcup&theme=dracula)" alt="Oops, something went wrong with Activity Graph" />
 </details>
 
 <details>
   <summary>🔥 GitHub Streak Stats</summary>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cwarcup&theme=dracula" alt="Curtis Warcup GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Cwarcup&theme=dracula" alt="Curtis Warcup GitHub Streak Stats" />
 </details>
 
 <details>
   <summary>🌐 Most used languages</summary>
   <br>
-  <img src="https://github-readme-stats-sooty-eight-60.vercel.app/api/top-langs/?username=cwarcup&langs_count=4&theme=dracula" alt="Curtis Warcups most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cwarcup&theme=dracula" alt="Curtis Warcups most used languages" />
 </details>
 
 <details>
