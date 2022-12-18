@@ -56,10 +56,10 @@ I'm <b>Curtis Warcup</b>, a Full Stack Web Developer from Vancouver, Canada 🇨
   <img title="express" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" alt="Express" />            
   <img title="jets" width="25px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" alt="Test" />
   <img title="jquery" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" />
-</p>
   <img title="eslint" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg#gh-dark-mode-only" alt="ESlint" />
   <img title="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" />
   <img title="GitHub" width="25px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" alt="Github" /> 
+</p>
   
 <details>
   <summary>⚡ Github Stats</summary>
